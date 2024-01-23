@@ -15,9 +15,9 @@ const TimerChallenge = ({ title, targetTime }) => {
     dialog.current.open();
   }
 
-  const handleReset= () => {
-    setTimeRemaining(targetTime*1000);
-  }
+  const handleReset = () => {
+    setTimeRemaining(targetTime * 1000);
+  };
 
   const handleStart = () => {
     timer.current = setInterval(() => {
