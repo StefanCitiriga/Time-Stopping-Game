@@ -1,8 +1,12 @@
-# A simple game made with React
+# A simple time-left guessing game made with React
+
 The rules are simple: Stop the time when you think the time would be almost up.
-Play this game here: *insert link*
+
+Play this game here: https://friendly-malasada-219a69.netlify.app/
+
 
 This game was built during a Udemy React Course.
+
 Some learning outcomes: useRef, useState, forwardRef, modals, portals, working with time intervals
 
 ![image](https://github.com/StefanCitiriga/Time-Stopping-Game/assets/57890672/1b9df1c8-1b80-4a42-9f27-b5d96aa360ab)
